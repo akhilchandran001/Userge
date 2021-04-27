@@ -44,7 +44,6 @@
 
 > you can find full documentation [**here**](https://theuserge.github.io)
 
-## Inspiration 😇
 
 > This project is inspired by the following projects :)
 
